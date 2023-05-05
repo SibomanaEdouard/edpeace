@@ -36,3 +36,116 @@
     transform: rotate(360deg);
   }
 }
+
+.image{
+   width:50vw; 
+position: fixed;
+top:10%;
+left: 20%;
+  opacity: 0.8;
+  height: 70vh;
+}
+.enjoy{
+  color:cornflowerblue;
+  position: fixed;
+  top:2%;
+  left:35%;
+}
+.button1{
+  color:blue;
+  position: absolute;
+  top:85%;
+  left:40%;
+  padding:1%;
+  background-color: green;
+  border-radius: 10%;
+  outline: none;
+}
+
+.form1 input{
+  box-sizing: border-box;
+  background-color:whitesmoke;
+  padding: 2%;
+  text-decoration: none;
+  border-radius: 5px;
+  width:60%; 
+  
+}
+.form1 input:focus {
+  outline: 2px solid blue;
+}
+
+.form1{
+   position:fixed;
+  top:25%;
+  left:25%;
+  right:25%;
+  bottom: 25%;
+  width:50%;
+  height: 50%;
+  border: 1px blue solid;
+  text-align: center;
+  padding-top:7% ;
+  color:dodgerblue; 
+  border-radius: 4%;
+ } 
+.form1 label{ 
+  font-size:x-large;
+  
+} 
+
+ .form1 button{ 
+   margin-top: 3%;
+  background-color:blue;
+  width: 15%;
+  height: 8vh;
+  border-radius: 10px; 
+ } 
+ .headerlo{
+  color:dodgerblue;
+  text-transform: uppercase;
+  font-size: xx-large;
+  position: fixed;
+  top:10%;
+  left: 45%;
+ }
+ .forms{
+  position:fixed;
+  top:16%;
+  left:25%;
+  width: 50%;
+  height: 60vh;
+  text-align: center;
+  padding-top:3% ;
+  border-radius: 5%;
+  border:1px solid blue;
+  padding: 5%;
+
+ }
+ .forms label{
+  color:steelblue;
+  font-size: x-large;
+ }
+ .forms input{
+  box-sizing: border-box;
+  padding: 2%;
+  width: 70%;
+border-radius: 7px;
+font-size: 20px;
+ }
+ .forms button{
+  margin-top: 3%;
+  background-color:darkblue;
+  padding: 2%;
+  border-radius: 5px;
+ }
+ .signhead{
+  position: fixed;
+  top:8%;
+  left:47%;
+  text-transform: uppercase;
+  font-size: xx-large;
+  color:darkblue;
+
+ }
+
